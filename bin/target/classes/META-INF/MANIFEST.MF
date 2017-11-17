@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-Title: spring-data-jpa-2db
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.rutvikpatel.spring-data-jpa2db
+Build-Jdk: 1.7.0
+Built-By: RutvikPatel
+Created-By: Maven Integration for Eclipse
+Implementation-URL: http://projects.spring.io/spring-boot/demo/
+
